@@ -1,24 +1,36 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.2986d7e6.chunk.css",
-    "main.js": "/react-deploy/static/js/main.b1bc8032.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.b1bc8032.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.a84bdaaa.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.a84bdaaa.js.map",
-    "static/js/2.82f639e7.chunk.js": "/react-deploy/static/js/2.82f639e7.chunk.js",
-    "static/js/2.82f639e7.chunk.js.map": "/react-deploy/static/js/2.82f639e7.chunk.js.map",
-    "static/js/3.9fbaa076.chunk.js": "/react-deploy/static/js/3.9fbaa076.chunk.js",
-    "static/js/3.9fbaa076.chunk.js.map": "/react-deploy/static/js/3.9fbaa076.chunk.js.map",
+    "main.css": "/react-deploy/static/css/main.45602bec.chunk.css",
+    "main.js": "/react-deploy/static/js/main.480b81a2.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.480b81a2.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.7dcc9af9.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.7dcc9af9.js.map",
+    "static/js/2.0d8a3c9e.chunk.js": "/react-deploy/static/js/2.0d8a3c9e.chunk.js",
+    "static/js/2.0d8a3c9e.chunk.js.map": "/react-deploy/static/js/2.0d8a3c9e.chunk.js.map",
+    "static/js/3.dcb8ebb7.chunk.js": "/react-deploy/static/js/3.dcb8ebb7.chunk.js",
+    "static/js/3.dcb8ebb7.chunk.js.map": "/react-deploy/static/js/3.dcb8ebb7.chunk.js.map",
     "index.html": "/react-deploy/index.html",
-    "static/css/main.2986d7e6.chunk.css.map": "/react-deploy/static/css/main.2986d7e6.chunk.css.map",
-    "static/js/2.82f639e7.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.82f639e7.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/react-deploy/static/media/logo.103b5fa1.svg",
-    "static/media/me.e8d29855.jpg": "/react-deploy/static/media/me.e8d29855.jpg"
+    "static/css/main.45602bec.chunk.css.map": "/react-deploy/static/css/main.45602bec.chunk.css.map",
+    "static/js/2.0d8a3c9e.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.0d8a3c9e.chunk.js.LICENSE.txt",
+    "static/media/3-pos-toe-raises-1.464e9165.png": "/react-deploy/static/media/3-pos-toe-raises-1.464e9165.png",
+    "static/media/3-pos-toe-raises-2.d4faea2d.png": "/react-deploy/static/media/3-pos-toe-raises-2.d4faea2d.png",
+    "static/media/abcrunches.831502df.png": "/react-deploy/static/media/abcrunches.831502df.png",
+    "static/media/abd-add-w-feet-close.64cfe9e0.png": "/react-deploy/static/media/abd-add-w-feet-close.64cfe9e0.png",
+    "static/media/active-bridge-w-strap.ad419dfd.png": "/react-deploy/static/media/active-bridge-w-strap.ad419dfd.png",
+    "static/media/airbench.96ef32a9.png": "/react-deploy/static/media/airbench.96ef32a9.png",
+    "static/media/assisted-hip-lift.88167bf1.png": "/react-deploy/static/media/assisted-hip-lift.88167bf1.png",
+    "static/media/c&d1.0a717c2a.png": "/react-deploy/static/media/c&d1.0a717c2a.png",
+    "static/media/c&d2.420e2a6c.png": "/react-deploy/static/media/c&d2.420e2a6c.png",
+    "static/media/childspose.c92f82bd.png": "/react-deploy/static/media/childspose.c92f82bd.png",
+    "static/media/base.css": "/react-deploy/static/media/downward-dog-landing-cropped-tall.a263c4a3.jpg",
+    "static/media/standing-arm-circles-palms-up.f07e590c.png": "/react-deploy/static/media/standing-arm-circles-palms-up.f07e590c.png",
+    "static/media/standing-arm-circles.97f02b78.png": "/react-deploy/static/media/standing-arm-circles.97f02b78.png",
+    "static/media/standing-ohe.74c65e9c.png": "/react-deploy/static/media/standing-ohe.74c65e9c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a84bdaaa.js",
-    "static/js/2.82f639e7.chunk.js",
-    "static/css/main.2986d7e6.chunk.css",
-    "static/js/main.b1bc8032.chunk.js"
+    "static/js/runtime-main.7dcc9af9.js",
+    "static/js/2.0d8a3c9e.chunk.js",
+    "static/css/main.45602bec.chunk.css",
+    "static/js/main.480b81a2.chunk.js"
   ]
 }
