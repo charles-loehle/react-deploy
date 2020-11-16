@@ -1,14 +1,18 @@
-import logo from './logo.svg';
+import './css/base.css';
+import './css/flexbox.css';
 import './App.css';
-import profileImage from './img/me.jpg';
+import { HashRouter, Route } from 'react-router-dom';
+import Landing from './components/Landing';
+import Exercise from './components/Exercise';
 
 function App() {
   return (
-    <div className="App">
-      <h1>My React App</h1>
-      <h2>Author: Charles Loehle</h2>
-      <img src={profileImage} alt="" />
-    </div>
+    <HashRouter>
+      <div className="App">
+        <Route exact path="/" component={Landing} />
+        <Route exact path="/main" component={Exercise} />
+      </div>
+    </HashRouter>
   );
 }
 
