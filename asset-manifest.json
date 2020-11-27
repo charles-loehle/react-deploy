@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.45602bec.chunk.css",
-    "main.js": "/react-deploy/static/js/main.480b81a2.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.480b81a2.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.7dcc9af9.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.7dcc9af9.js.map",
-    "static/js/2.0d8a3c9e.chunk.js": "/react-deploy/static/js/2.0d8a3c9e.chunk.js",
-    "static/js/2.0d8a3c9e.chunk.js.map": "/react-deploy/static/js/2.0d8a3c9e.chunk.js.map",
-    "static/js/3.dcb8ebb7.chunk.js": "/react-deploy/static/js/3.dcb8ebb7.chunk.js",
-    "static/js/3.dcb8ebb7.chunk.js.map": "/react-deploy/static/js/3.dcb8ebb7.chunk.js.map",
+    "main.css": "/react-deploy/static/css/main.98148d43.chunk.css",
+    "main.js": "/react-deploy/static/js/main.9bd3eecc.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.9bd3eecc.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.6584a0d4.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.6584a0d4.js.map",
+    "static/js/2.04be0e62.chunk.js": "/react-deploy/static/js/2.04be0e62.chunk.js",
+    "static/js/2.04be0e62.chunk.js.map": "/react-deploy/static/js/2.04be0e62.chunk.js.map",
+    "static/js/3.c60ddf6a.chunk.js": "/react-deploy/static/js/3.c60ddf6a.chunk.js",
+    "static/js/3.c60ddf6a.chunk.js.map": "/react-deploy/static/js/3.c60ddf6a.chunk.js.map",
     "index.html": "/react-deploy/index.html",
-    "static/css/main.45602bec.chunk.css.map": "/react-deploy/static/css/main.45602bec.chunk.css.map",
-    "static/js/2.0d8a3c9e.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.0d8a3c9e.chunk.js.LICENSE.txt",
+    "static/css/main.98148d43.chunk.css.map": "/react-deploy/static/css/main.98148d43.chunk.css.map",
+    "static/js/2.04be0e62.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.04be0e62.chunk.js.LICENSE.txt",
     "static/media/3-pos-toe-raises-1.464e9165.png": "/react-deploy/static/media/3-pos-toe-raises-1.464e9165.png",
     "static/media/3-pos-toe-raises-2.d4faea2d.png": "/react-deploy/static/media/3-pos-toe-raises-2.d4faea2d.png",
     "static/media/abcrunches.831502df.png": "/react-deploy/static/media/abcrunches.831502df.png",
@@ -28,9 +28,9 @@
     "static/media/standing-ohe.74c65e9c.png": "/react-deploy/static/media/standing-ohe.74c65e9c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dcc9af9.js",
-    "static/js/2.0d8a3c9e.chunk.js",
-    "static/css/main.45602bec.chunk.css",
-    "static/js/main.480b81a2.chunk.js"
+    "static/js/runtime-main.6584a0d4.js",
+    "static/js/2.04be0e62.chunk.js",
+    "static/css/main.98148d43.chunk.css",
+    "static/js/main.9bd3eecc.chunk.js"
   ]
 }
