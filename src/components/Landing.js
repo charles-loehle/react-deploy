@@ -1,5 +1,4 @@
 import React from 'react';
-import downwardDogLanding from '../images/downward-dog-landing-cropped-tall.jpg';
 import { Link } from 'react-router-dom';
 
 const Home = () => {

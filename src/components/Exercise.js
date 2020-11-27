@@ -4,14 +4,12 @@ import Airbench from '../images/airbench.png';
 import './Exercise.css';
 
 const Exercise = () => {
-  const [id, setId] = useState('');
   const [title, setTitle] = useState('Airbench');
   const [image1, setImage1] = useState(Airbench);
   const [image2, setImage2] = useState('');
   const [instructions, setInstructions] = useState(
     'Hold for 2 minutes. Stand against a wall with your feet facing straight ahead. Your hips, upper back and head should be up against the wall. Walk your feet away from the wall approximately two to two and a half feet. Bend your knees and start sliding down the wall. Hold this position and keep the weight in your heels. Your lower back should be flush up against the wall.'
   );
-  const [instructionsTitle, setInstructionsTitle] = useState('');
 
   const handleClick = () => {
     let rand = Math.floor(Math.random() * Exercises.length);
@@ -19,19 +17,6 @@ const Exercise = () => {
     setImage1(Exercises[rand].image1);
     setImage2(Exercises[rand].image2);
     setInstructions(Exercises[rand].instructions);
-
-    // setImage2(Exercises[rand].image2);
-    // setInstructionsTitle(Exercises[rand].instructionsTitle);
-    // this.setState({
-    //   id: Exercises[rand].id,
-    //   title: Exercises[rand].title,
-    //   image1: Exercises[rand].image1,
-    //   image2: Exercises[rand].image2,
-    //   instructionsTitle: Exercises[rand].instructionsTitle,
-    //   instructions: Exercises[rand].instructions,
-    //   purposeTitle: Exercises[rand].purposeTitle,
-    //   purpose: Exercises[rand].purpose,
-    // });
   };
 
   return (
@@ -43,8 +28,8 @@ const Exercise = () => {
       </div>
       {image2 ? (
         <div className="row margin-top-1">
-          <div className="primary col">
-            <img className="text-center" src={image1} alt="" />
+          <div className="primary col text-center">
+            <img className="img-thumbnail" src={image1} alt="" />
             <img className="img-thumbnail mb-2" src={image2} alt="" />
           </div>
 
@@ -55,8 +40,8 @@ const Exercise = () => {
         </div>
       ) : (
         <div className="row margin-top-2">
-          <div className="primary col">
-            <img className="img-thumbnail mb-2 img-fluid" src={image1} alt="" />
+          <div className="primary col text-center">
+            <img className="img-thumbnail mb-2" src={image1} alt="" />
           </div>
 
           <div className="secondary col">

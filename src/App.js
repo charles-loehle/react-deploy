@@ -1,6 +1,6 @@
 import './css/base.css';
 import './css/flexbox.css';
-import './App.css';
+import React from 'react';
 import { HashRouter, Route } from 'react-router-dom';
 import Landing from './components/Landing';
 import Exercise from './components/Exercise';
